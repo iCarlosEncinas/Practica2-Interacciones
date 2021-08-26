@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        lblNombre.text = "Ruben"
+        lblNombre.text = "Carlos"
         txtEdad.text = ""
     }
 
